@@ -492,7 +492,7 @@
     margin: auto;
 }
 .grid3-1-1{
-    background-image:url("/image/1.jpg");
+    background-image:url("./image/1.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
@@ -500,63 +500,63 @@
     
 }
 .grid3-1-2{
-    background-image:url("/image/2.jpg");
+    background-image:url("./image/2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-3{
-    background-image:url("/image/3.jpg");
+    background-image:url("./image/3.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-4{
-    background-image:url("/image/4.jpg");
+    background-image:url("./image/4.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-5{
-    background-image:url("/image/5.jpg");
+    background-image:url("./image/5.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-6{
-    background-image:url("/image/6.jpg");
+    background-image:url("./image/6.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-7{
-    background-image:url("/image/7.jpg");
+    background-image:url("./image/7.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-8{
-    background-image:url("/image/8.jpg");
+    background-image:url("./image/8.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-9{
-    background-image:url("/image/airarabia.jpg");
+    background-image:url("./image/airarabia.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
     width: 130px;
 }
 .grid3-1-10{
-    background-image:url("/image/akasa.jpg");
+    background-image:url("./image/akasa.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 130px;
